@@ -2,3 +2,10 @@ WyHTTP
 ======
 
 A simple library for manipulating HTTP request / response messages.  See RFC7231 for more details.
+
+See:
+
+https://github.com/nodejs/http-parser
+
+http://mendsley.github.io/2012/12/19/tinyhttp.html
+
