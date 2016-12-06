@@ -1,0 +1,4 @@
+WyHTTP
+======
+
+A simple library for manipulating HTTP request / response messages.  See RFC7231 for more details.
